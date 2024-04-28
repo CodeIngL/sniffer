@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=sa-jdi.jar -DgroupId=com.abc -DartifactId=cde -Dversion=1.0.0 -Dpackaging=jar
